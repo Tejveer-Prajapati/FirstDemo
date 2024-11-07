@@ -1,4 +1,4 @@
 # FirstDemo
 This is my First repository in Github.
 <br>
-Autthor-Tejveer
+Autthor-Tejveer(Sanskriti University)
